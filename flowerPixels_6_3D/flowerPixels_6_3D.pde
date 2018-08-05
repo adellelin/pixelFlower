@@ -1,4 +1,4 @@
-
+// install this package https://packages.ubuntu.com/trusty/amd64/libgstreamer0.10-0/download
 import processing.video.*;
 Movie myMovie;
 Movie myMovie2;
